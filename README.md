@@ -11,4 +11,5 @@ Analysis of a new algorithm for selecting partners in a dating app (A/B test)
 
 Необходимо оценить, правда ли, что новый алгоритм улучшил качество сервиса.
 
-Анализ и аналитическое заключение с ответом на вопрос внутри .ypnb файла.
+Анализ и аналитическое заключение с ответом на вопрос внутри statistic_ab_test_datingapp.ipynb.
+Данные внутри dating_data.csv.
